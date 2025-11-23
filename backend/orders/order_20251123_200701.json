@@ -1,0 +1,11 @@
+{
+    "drinkType": "cappuccino",
+    "size": "large",
+    "milk": "coconut",
+    "extras": [
+        "caramel"
+    ],
+    "name": "Rwitama",
+    "timestamp": "2025-11-23T20:07:01.862544",
+    "session_id": "session_20251123_200701"
+}
